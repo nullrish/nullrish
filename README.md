@@ -16,7 +16,7 @@ without linux. *i use arch btw.*
 - python
 - c++
 
-ofc there'll be other languages too that i am familiar with but these 5 languages are what i usually build my stuff at.
+ofc there are other languages that i am familiar with but these 5 languages are what i usually build my stuff at.
 
 ### software that i use to make things
 - operating system: arch linux (w hyprland)
