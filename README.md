@@ -15,6 +15,7 @@ without linux. *i use arch btw.*
 - rust
 - python
 - c++
+
 ofc there'll be other languages too that i am familiar with but these 5 languages are what i usually build my stuff at.
 
 ### software that i use to make things
