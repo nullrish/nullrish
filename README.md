@@ -18,7 +18,7 @@ without linux. *i use arch btw.*
 
 ofc there are other languages that i am familiar with but these 5 languages are what i usually build my stuff at.
 
-### software that i use to make things
+### techstack
 - operating system: arch linux (w hyprland)
 - editor: neovim (w lazyvim)
 
