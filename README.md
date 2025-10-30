@@ -16,7 +16,7 @@ without linux. *i use arch btw.*
 - python
 - c++
 
-ofc there are other languages that i am familiar with but these 5 languages are what i usually build my stuff at.
+ofc there are other languages that i am familiar with but these 5 languages are what i usually use to write some code.
 
 ### techstack
 - operating system: arch linux (w hyprland)
