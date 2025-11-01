@@ -23,3 +23,5 @@ ofc there are other languages that i am familiar with but these 5 languages are 
 - editor: neovim (w lazyvim)
 
 well, enjoy and have a great day...
+
+*waiting for advent of code 2025*
