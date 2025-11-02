@@ -15,7 +15,7 @@ without linux. *i use arch btw.*
 - rust
 - python
 - c++
-
+*learning zig for now :>*
 ofc there are other languages that i am familiar with but these 5 languages are what i usually use to write some code.
 
 ### techstack
