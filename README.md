@@ -8,7 +8,7 @@ just trying to learn something and possibly make best decision while i write cod
 
 ### Languages
 Still figuring out which path should I go deep down into for now,
-I know,
+I know;
 Go (Mostly), Typescript(I can work in it), Python(I can work in it), CPP(I can work in it), Rust(Very little just fundamental concepts)
 
 well, enjoy and have a great day...
