@@ -14,4 +14,7 @@ Go (Mostly), Typescript(I can work in it), Python(I can work in it), CPP(I can w
 ### dev environment
 linux, neovim, hyprland, docker, git, github, opencode
 
+
+
+
 well, enjoy and have a great day...
