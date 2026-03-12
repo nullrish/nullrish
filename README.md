@@ -1,7 +1,7 @@
 ## nullrish
 
 ### know about me
-hey there! i'm **rishab** (or just **rish**) welcome to my github page where you'd find repos that i've built in process of learning or while working on personal projects. 
+hey there! i'm **rishab** (or just **rishhh**) welcome to my github page where you'd find repos that i've built in process of learning or while working on personal projects. 
 
 ### what am i even doing?
 understanding software engineering, development and tools i use in my day to do life.
