@@ -12,7 +12,7 @@ I know;
 Go (Mostly), Typescript(I can work with it), Python(I can work with it), CPP(I can work with it), Rust(Very little just fundamental concepts)
 
 ### dev environment
-linux, neovim, hyprland, docker, git, github, opencode
+arch linux, ghostty, hyprland, neovim, docker, git, github, opencode
 
 
 #   -
